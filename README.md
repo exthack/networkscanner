@@ -1,2 +1,2 @@
 # networkscanner
-This python script will use to help you show connected network On you internet .
+This python script will use to help you show connected Clients on your  network On you internet .
